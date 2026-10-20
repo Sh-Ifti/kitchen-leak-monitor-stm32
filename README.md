@@ -2,8 +2,8 @@
 
 A low-cost embedded system that watches a kitchen for **gas/smoke leaks and open flame** and raises a local alarm. An STM32 "Blue Pill" reads an MQ-2 gas/smoke sensor and a KY-026 flame sensor, shows the status on an OLED display, and drives a buzzer with a different pattern for each hazard.
 
-CSE 331L (Microprocessor Interfacing & Embedded Systems Lab), North South University · Summer 2024
-Moshiur Rahman · Shahariar Ifti · Pranjal Saha Arnob · Md. Mahedi Hasan
+CSE 331L (Microprocessor Interfacing & Embedded Systems Lab), North South University · Summer 2024<br>
+Moshiur Rahman · Shahariar Ifti · Pranjal Saha Arnob · Md. Mahedi Hasan<br>
 Faculty: Mohammad A. Qayum, Ph.D. · Lab instructor: Sheikh Mohammed Wali Ullah
 
 <p align="center"><img src="figures/prototype.jpg" width="560" alt="Breadboard prototype with STM32, MQ-2, KY-026 and OLED display"></p>
